@@ -128,3 +128,41 @@ header {
   max-width: 1360px;
   margin: 0 auto;
 }
+.button-6 {
+  background-color: #F0E71433;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 14px;
+}
+.second-theme {
+  width: 625px;
+  font-size: 44px;
+  font-weight: 600; 
+
+}
+.p-2 {
+  width: 477px;
+  font-size: 20px;
+}
+.big-div {
+  display: flex;
+  margin-top: 70px;
+}
+.teg-div {
+  display: flex;
+  flex-direction: column; 
+  gap: 20px;
+}
+.ph-1 {
+  font-size: 20px;
+  font-weight: 600;
+  }
+  .ph-2 {
+    font-size: 20px;
+  font-weight: 600;
+  }
+  .ph-3 {
+    font-size: 20px;
+  font-weight: 600;
+  }
+
